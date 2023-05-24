@@ -1632,10 +1632,10 @@ RainForest.minimumRainFall = 80;
 console.log(congo.minimumRainFall);
 ```
 
-- [x] `undefined`
+- [ ] `undefined`
 - [ ] `None of these answers, as static is not a feature in Javascript.`
 - [ ] `60`
-- [ ] `80`
+- [x] `80`
 
 [Reference Classes static](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static)
 
